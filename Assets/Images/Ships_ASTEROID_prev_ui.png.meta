@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: fa29f66807f557e40b93222f5c1742e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5735120350129358219
+    second: Ships_ASTEROID_prev_ui_0
+  - first:
+      213: -7007054023032742162
+    second: Ships_ASTEROID_prev_ui_1
+  - first:
+      213: 7015081576570117356
+    second: Ships_ASTEROID_prev_ui_2
+  - first:
+      213: -1000877329013282117
+    second: Ships_ASTEROID_prev_ui_3
+  - first:
+      213: 8844076981638921999
+    second: Ships_ASTEROID_prev_ui_4
+  - first:
+      213: -1242981822671658276
+    second: Ships_ASTEROID_prev_ui_5
+  - first:
+      213: -2934867692274280701
+    second: Ships_ASTEROID_prev_ui_6
+  - first:
+      213: -4783109943579262527
+    second: Ships_ASTEROID_prev_ui_7
+  - first:
+      213: 3754672490017475719
+    second: Ships_ASTEROID_prev_ui_8
+  - first:
+      213: -5736843621889917731
+    second: Ships_ASTEROID_prev_ui_9
+  - first:
+      213: -3263565729914503824
+    second: Ships_ASTEROID_prev_ui_10
+  - first:
+      213: 2896720530514024378
+    second: Ships_ASTEROID_prev_ui_11
+  - first:
+      213: -767261614339696592
+    second: Ships_ASTEROID_prev_ui_12
+  - first:
+      213: -2512950740179361678
+    second: Ships_ASTEROID_prev_ui_13
+  - first:
+      213: -2394936751796008750
+    second: Ships_ASTEROID_prev_ui_14
+  - first:
+      213: 401935291687791577
+    second: Ships_ASTEROID_prev_ui_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 435
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85039d829d379f40800000000000000
+      internalID: 5735120350129358219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5923bd71f1ce90800000000000000
+      internalID: -7007054023032742162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 440
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec59d1c6839a5160800000000000000
+      internalID: 7015081576570117356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 322
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaeb644f5b2c12f0800000000000000
+      internalID: -1000877329013282117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 324
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ffbc828297cba70800000000000000
+      internalID: 8844076981638921999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 331
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2636d2e9a00cee0800000000000000
+      internalID: -1242981822671658276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 324
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307983b22614547d0800000000000000
+      internalID: -2934867692274280701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 295
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c15b29dafe9db0800000000000000
+      internalID: -4783109943579262527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 239
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4c6f8cb64b1430800000000000000
+      internalID: 3754672490017475719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc3949fe13a260b0800000000000000
+      internalID: -5736843621889917731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 242
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dbe4f724c75b2d0800000000000000
+      internalID: -3263565729914503824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 147
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79eda99f7333820800000000000000
+      internalID: 2896720530514024378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 97
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0385d7b70a32a55f0800000000000000
+      internalID: -767261614339696592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 104
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ed81bd94302dd0800000000000000
+      internalID: -2512950740179361678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 91
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cba196b973ced0800000000000000
+      internalID: -2394936751796008750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_ASTEROID_prev_ui_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 10
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6ebba406f39500800000000000000
+      internalID: 401935291687791577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ships_ASTEROID_prev_ui_0: 5735120350129358219
+      Ships_ASTEROID_prev_ui_1: -7007054023032742162
+      Ships_ASTEROID_prev_ui_10: -3263565729914503824
+      Ships_ASTEROID_prev_ui_11: 2896720530514024378
+      Ships_ASTEROID_prev_ui_12: -767261614339696592
+      Ships_ASTEROID_prev_ui_13: -2512950740179361678
+      Ships_ASTEROID_prev_ui_14: -2394936751796008750
+      Ships_ASTEROID_prev_ui_15: 401935291687791577
+      Ships_ASTEROID_prev_ui_2: 7015081576570117356
+      Ships_ASTEROID_prev_ui_3: -1000877329013282117
+      Ships_ASTEROID_prev_ui_4: 8844076981638921999
+      Ships_ASTEROID_prev_ui_5: -1242981822671658276
+      Ships_ASTEROID_prev_ui_6: -2934867692274280701
+      Ships_ASTEROID_prev_ui_7: -4783109943579262527
+      Ships_ASTEROID_prev_ui_8: 3754672490017475719
+      Ships_ASTEROID_prev_ui_9: -5736843621889917731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

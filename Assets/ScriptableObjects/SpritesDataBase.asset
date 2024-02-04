@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b0cbb529aa4947a1ca7187f845c350, type: 3}
+  m_Name: SpritesDataBase
+  m_EditorClassIdentifier: 
+  listOfSprites:
+  - key: Player
+    sprites:
+    - {fileID: -2934867692274280701, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -767261614339696592, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+  - key: Asteroid
+    sprites:
+    - {fileID: 5735120350129358219, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -7007054023032742162, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: 7015081576570117356, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -1000877329013282117, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: 8844076981638921999, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+  - key: AsteroidSmall
+    sprites:
+    - {fileID: 3754672490017475719, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -5736843621889917731, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -3263565729914503824, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: 2896720530514024378, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+    - {fileID: -1242981822671658276, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
+  - key: Title
+    sprites:
+    - {fileID: 401935291687791577, guid: fa29f66807f557e40b93222f5c1742e8, type: 3}
